@@ -1,5 +1,5 @@
 # web_host_terraform
-run these command 
+run this command 
 --> terraform init
 --> terraform plan
 --> terraform apply
